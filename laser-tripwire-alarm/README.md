@@ -1,3 +1,7 @@
+## Circuit Diagram
+
+![Circuit](circuit1.png)
+
 # Laser Tripwire Alarm
 
 ## Description
